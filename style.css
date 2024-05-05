@@ -110,6 +110,10 @@ html , body{
     display: none;
 }
 
+.card .right button:active{
+    background-color: hsl(159, 35%, 21%);
+}
+
 @media (max-width: 1700px) {
     html{
         font-size: 12px;
